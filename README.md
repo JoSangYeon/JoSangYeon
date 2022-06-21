@@ -58,6 +58,3 @@ You can check related projects in my repository.
  <a href="mailto:whtkddus98@kookmin.ac.kr"><img src="https://img.shields.io/badge/-School Mail-0EE957?style=flat-square&logo=Angular Universal&logoColor=white"/></a>
  <a href="https://jsy-coding-blog.tistory.com/"><img src="https://img.shields.io/badge/-BLOG-CEF54D?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 </p>
-
-<h2 align="center">🌟 GitHub Stats 🌟</h2>
- ![JSY's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoSangYeon&show_icons=true&theme=tokyonight&hide=contribs,prs)
