@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">👋 Hi there 👋</h2>
 <div align="center">
- <h4>"Let's do our best rather than be the best."</h4>
+ <h4>"Let's do my best rather than be the best."</h4>
 
  Hello, I'm Cho Sangyeon.<br>
 I am currently a senior at Kookmin University in Korea.<br>
